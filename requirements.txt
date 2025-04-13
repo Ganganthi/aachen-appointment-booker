@@ -1,0 +1,3 @@
+plyer
+selenium
+webdriver_manager
